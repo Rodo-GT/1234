@@ -1,3 +1,20 @@
 h1, h2, p {color:white;}
 body {background-color:black;}
-#titlecolor1 {background-color:#14b04a;}
+
+#proximamente {
+	width: 70%;
+	margin: 0 auto;
+	background-color:#415080;
+	}
+
+#titlecolor1 {
+	background-color:#415880;
+	width: 70%;
+	margin: 0 auto;
+	}
+	
+#margen{
+	width: 70%;
+	margin: 0 auto;
+
+	}
